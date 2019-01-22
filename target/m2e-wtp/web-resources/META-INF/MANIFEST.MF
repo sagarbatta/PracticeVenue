@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: PracticeVenue
+Build-Number: NONE - not built on CI
+SCM-Revision: NONE - not built on CI
+Built-By: sagarbatta
+Build-Time: 2019-01-22T12:51:22Z
+Build-Url: NONE - not built on CI
+Version: 0.0.1-SNAPSHOT
+Build-Jdk: 1.8.0_192
+Created-By: Maven Integration for Eclipse
+
